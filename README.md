@@ -5,4 +5,5 @@ This is a basic console based bivariate linear regression modeller
 Future Implementations:
 - GUI that displays scatter plot, line of best fit and a residuals plot on a dashboard
 - Multivariate linear regression modelling capabilities
+- Inference for regression: Residual SD, CI for Slope B1, Sampling dist for reg slope and significance lvl stuff
 - ... other stuff
